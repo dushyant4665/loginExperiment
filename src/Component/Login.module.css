@@ -1,0 +1,25 @@
+.control.invalid input{
+    border-color: red;
+    background: lightpink;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;    
+}
+
+form .control{
+    margin: 10px 0;
+}
+
+form label{
+    display: block;
+    font-weight: bold;
+}
+form input{
+    padding: 5px 1rem;
+    border-radius: 3px;
+    border: 1px solid lightgray;
+    outline: none;
+}

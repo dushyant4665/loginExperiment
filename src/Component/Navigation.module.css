@@ -1,0 +1,23 @@
+.nav{
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background: gray;
+}
+
+.nav li{
+    list-style: none;
+    margin: 0 1rem;
+}
+
+.nav li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: white;
+    font-weight: bold;
+}
+
+.nav li a:hover{
+    color: purple;
+}

@@ -1,0 +1,10 @@
+.button{
+    padding: 10px 2rem;
+    border-radius: 2rem;
+    border: none;
+    background: purple;
+    color: white;
+    font-weight: bold;
+    margin: 5px 0;
+    box-shadow: 1px 3px 10px -4px black;
+}
